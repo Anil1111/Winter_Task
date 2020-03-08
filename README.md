@@ -1,2 +1,7 @@
-# Winter_Task
-Portfolio Site using HTML, CSS and JS
+# Project Title 
+
+Portfolio Site 
+This is my portfolio site made using HTML, CSS and Vanilla Javascript.
+
+
+
