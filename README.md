@@ -6,6 +6,9 @@ This is my portfolio site made using HTML, CSS and Vanilla Javascript.
 
 open the project in the browser and start contributing.
 
+Screenshot of my portfolio : 
+![alt text](filee.png "Screenshot of the portfolio")
+
 ## Authors 
 
 Isha Agarwal
